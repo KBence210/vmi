@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Hasab_absztrakt_osztaly", "1_Hasab_absztrakt_osztaly\1_Hasab_absztrakt_osztaly.csproj", "{020C1AA4-47DB-4D2F-BEE4-CD37F79538CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Szinezheto_interface", "2_Szinezheto_interface\2_Szinezheto_interface.csproj", "{96F298E7-A428-4351-AF87-D3DD7853AADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020C1AA4-47DB-4D2F-BEE4-CD37F79538CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020C1AA4-47DB-4D2F-BEE4-CD37F79538CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020C1AA4-47DB-4D2F-BEE4-CD37F79538CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020C1AA4-47DB-4D2F-BEE4-CD37F79538CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F298E7-A428-4351-AF87-D3DD7853AADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F298E7-A428-4351-AF87-D3DD7853AADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F298E7-A428-4351-AF87-D3DD7853AADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F298E7-A428-4351-AF87-D3DD7853AADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {109653B2-D752-4592-8902-52DBBDD05AE7}
+	EndGlobalSection
+EndGlobal
